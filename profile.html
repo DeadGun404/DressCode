@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>DressCode</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/icomoon.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/flexslider.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+  <div id="page">
+    <a href="#" class="js-nav-toggle nav-toggle"><i></i></a>
+    <aside id="aside" role="complementary" class="border js-fullheight">
+      <h1 id="logo"><a href="index.html">DressCode</a></h1>
+      <nav id="main-menu" role="navigation">
+        <ul>
+          <li class="active"><a href="profile.html">Профиль</a></li>
+          <li><a href="index.html">Главная</a></li>
+          <li><a href="blog.html">Каталог</a></li>
+          <li><a href="basket.html">Корзина<span id="cartBadge" class="badge bg-danger badge-cart"></span></a></li>
+          <li><a href="contact.html">Контакты</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <div class="container mt-5">
+      <div class="row justify-content-center">
+        <div id="profileContent" style="display: none;">
+          <h2 class="text-center mb-4">Личный кабинет</h2>
+          <p class="text-center">Логин: <span id="login" class="fw-bold"></span></p>
+          <div class="row">
+            <div class="col-md-6">
+              <form id="profileForm">
+                <div class="form-group mb-3">
+                  <input type="text" class="form-control" id="fullName" name="fullName" placeholder="ФИО" disabled>
+                </div>
+                <div class="form-group mb-3">
+                  <input type="text" class="form-control" id="phone" name="phone" placeholder="Номер телефона" disabled>
+                </div>
+                <div class="form-group mb-3">
+                  <input type="email" class="form-control" id="email" name="email" placeholder="Email" disabled>
+                </div>
+                <div class="form-group mb-3">
+                  <input type="text" class="form-control" id="address" name="address" placeholder="Адрес" disabled>
+                </div>
+                <div class="form-group mb-3">
+                  <button type="button" id="editBtn" class="btn btn-primary btn-md w-100">Редактировать</button>
+                </div>
+                <div class="form-group mb-3">
+                  <button type="submit" id="saveBtn" class="btn btn-primary btn-md w-100" disabled>Сохранить</button>
+                </div>
+              </form>
+              <div class="form-group">
+                <a href="/logout" class="btn btn-outline-danger btn-md w-100">Выйти</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+        <div id="authPrompt" class="text-center" style="display: none;">
+          <h2 class="mb-4">Войдите в аккаунт</h2>
+          <p>Для доступа к личному кабинету необходимо авторизоваться</p>
+          <a href="/login.html" class="btn btn-primary btn-md me-2">Войти</a>
+          <a href="/register.html" class="btn btn-outline-primary btn-md">Зарегистрироваться</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <script src="/js/script.js"></script>
+</body>
+</html>

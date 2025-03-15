@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "photo": "https://media.istockphoto.com/id/1501148188/photo/modern-young-man-in-a-white-suit-is-walking-and-enjoying-the-day.webp?a=1&b=1&s=612x612&w=0&k=20&c=3Nvkp4Z4PliyvH-DhUn7nHrQQ_i-Zgq2zt7rierplJw=",
+    "name": "Классическая белая рубашка",
+    "price": 59.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "description": "Элегантная белая рубашка из хлопка с длинным рукавом.",
+    "category": "Рубашка",
+    "topCategories": []
+  },
+  {
+    "id": 2,
+    "photo": "https://avatars.mds.yandex.net/i?id=9972d6818c5e24a73f0962d826f0ab12_l-4769521-images-thumbs&n=13",
+    "name": "Черные кроссовки",
+    "price": 89.99,
+    "sizes": [
+      {
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "size": "XL",
+        "stock": 4
+      }
+    ],
+    "description": "Стильные черные кроссовки с мягкой подошвой.",
+    "category": "Кроссовки",
+    "topCategories": [
+      "НОВИНКИ"
+    ]
+  },
+  {
+    "id": 3,
+    "photo": "https://media.istockphoto.com/id/1307504291/photo/hispanic-man-posing-with-a-casual-gray-t-shirt.webp?a=1&b=1&s=612x612&w=0&k=20&c=TSZ2l5gWa7Dzz7RtVh0EeA-heGy1BJ1b-YnwYhB1tzk=",
+    "name": "Серая футболка",
+    "price": 149.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "size": "XL",
+        "stock": 2
+      }
+    ],
+    "description": "Удобная серая футболка из хлопка.",
+    "category": "Футболка",
+    "topCategories": [
+      "ЧЕРНАЯ ПЯТНИЦА"
+    ]
+  },
+  {
+    "id": 4,
+    "photo": "https://media.istockphoto.com/id/1488415961/photo/portrait-of-attractive-asian-delivery-man-in-blue-t-shirt-and-cap-happy-smiling-isolated-on.webp?a=1&b=1&s=612x612&w=0&k=20&c=Iz1Pq6luLSdilIhcZND3dpZUCYY-0cr3NGmmeg7-PWY=",
+    "name": "Синяя футболка",
+    "price": 24.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 15
+      },
+      {
+        "size": "M",
+        "stock": 20
+      },
+      {
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "size": "XL",
+        "stock": 10
+      }
+    ],
+    "description": "Удобная синяя футболка из хлопка.",
+    "category": "Футболка",
+    "topCategories": [
+      "ЛЕТО 2025"
+    ]
+  },
+  {
+    "id": 5,
+    "photo": "https://media.istockphoto.com/id/1149041862/photo/full-length-body-size-view-photo-famous-gentleman-manager-diplomat-executive-rich-put-palm.webp?a=1&b=1&s=612x612&w=0&k=20&c=zuo6omv1IreXBKPeClsmSX24QAHEAYFgxntVKiqESvU=",
+    "name": "Классический черный костюм",
+    "price": 199.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "description": "Стильный черный костюм из шерсти.",
+    "category": "Костюм",
+    "topCategories": []
+  },
+  {
+    "id": 6,
+    "photo": "https://media.istockphoto.com/id/172801724/photo/black-dress-shoes.webp?a=1&b=1&s=612x612&w=0&k=20&c=dGds96Qy2M5yy_OdCXz_AWkRTSpTC_ulHcCep5-1HSQ=",
+    "name": "Черные кожаные туфли",
+    "price": 119.99,
+    "sizes": [
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "description": "Классические черные туфли из натуральной кожи.",
+    "category": "Туфли",
+    "topCategories": [
+      "ЧЕРНАЯ ПЯТНИЦА"
+    ]
+  },
+  {
+    "id": 7,
+    "photo": "https://media.istockphoto.com/id/1482621701/photo/fashionable-man.webp?a=1&b=1&s=612x612&w=0&k=20&c=APjdkZxDNGMRUuGPyNJmk5tz1CF_RntUAFBCCTLQA5Q=",
+    "name": "Зеленая толстовка",
+    "price": 49.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "size": "M",
+        "stock": 11
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 6
+      }
+    ],
+    "description": "Мягкая зеленая толстовка с капюшоном.",
+    "category": "Толстовка",
+    "topCategories": [
+      "ЛЕТО 2025"
+    ]
+  },
+  {
+    "id": 8,
+    "photo": "https://media.istockphoto.com/id/1484256709/photo/ties-shoelaces.webp?a=1&b=1&s=612x612&w=0&k=20&c=GpkO5_wsswDjhNlHIqhmENWhMIlhbPGR6EyFMSHXGjo=",
+    "name": "Белые кроссовки",
+    "price": 79.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 6
+      },
+      {
+        "size": "M",
+        "stock": 9
+      },
+      {
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "size": "XL",
+        "stock": 4
+      }
+    ],
+    "description": "Легкие белые кроссовки.",
+    "category": "Кроссовки",
+    "topCategories": [
+      "НОВИНКИ"
+    ]
+  },
+  {
+    "id": 9,
+    "photo": "https://media.istockphoto.com/id/1483079297/photo/mockup-template-man-wearing-white-blank-hoodie-and-other-sample-hanging-nearby.webp?a=1&b=1&s=612x612&w=0&k=20&c=-9ZZyCkQ6FQYEf8padmWh5DfCcCK5lMBmXUJKDYyeTc=",
+    "name": "Белая толстовка",
+    "price": 129.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "size": "XL",
+        "stock": 2
+      }
+    ],
+    "description": "Мягкая белая толстовка с капюшоном.",
+    "category": "Толстовка",
+    "topCategories": []
+  },
+  {
+    "id": 10,
+    "photo": "https://media.istockphoto.com/id/1320367916/photo/man-wearing-black-blank-t-shirt-and-a-black-baseball-cap-with-space-for-your-logo-or-design.webp?a=1&b=1&s=612x612&w=0&k=20&c=nXX2rD3NdRIh6pS295LOAWP1buYUhPCQpZ2J4tKkx8I=",
+    "name": "Черная футболка",
+    "price": 19.99,
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 11
+      },
+      {
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "description": "Простая черная футболка из хлопка.",
+    "category": "Футболка",
+    "topCategories": [
+      "НОВИНКИ"
+    ]
+  }
+]
